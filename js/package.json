@@ -36,7 +36,7 @@
     "doc": "yarn typedoc src/index.ts"
   },
   "devDependencies": {
-    "@bonfida/spl-name-service": "^0.2.8",
+    "@bonfida/spl-name-service": "^0.2.13",
     "@metaplex-foundation/mpl-token-metadata": "^1.2.5",
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-typescript": "^11.0.0",
@@ -65,7 +65,7 @@
     "@bonfida/utils": "^0.0.7"
   },
   "dependencies": {
-    "@bonfida/spl-name-service": "^0.2.8",
+    "@bonfida/spl-name-service": "^0.2.13",
     "@solana/spl-token": "^0.3.7",
     "bn.js": "^5.2.0",
     "borsh": "^0.6.0",
